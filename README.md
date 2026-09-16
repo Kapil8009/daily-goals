@@ -84,6 +84,8 @@ The permanent package, namespace, and application ID are `com.katiyar.dailygoals
 
 Set `ANDROID_HOME` or create an uncommitted `local.properties` containing `sdk.dir=/absolute/path/to/Android/Sdk`.
 
+On Linux or macOS, if the project was downloaded from GitHub and the wrapper is not executable, run `chmod +x gradlew` once.
+
 Run all checks and builds:
 
 ```bash
