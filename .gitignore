@@ -1,0 +1,28 @@
+# Android and Gradle
+.gradle/
+**/build/
+local.properties
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# Signing and secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+*.pem
+*.p12
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Codex workspace and local toolchain
+work/
+outputs/
+.agents/
+.codex/

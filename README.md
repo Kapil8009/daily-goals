@@ -46,7 +46,7 @@ Add final device screenshots before publishing:
 ## Project Structure
 
 ```text
-app/src/main/java/com/example/dailygoals/
+app/src/main/java/com/katiyar/dailygoals/
 ├── data/
 │   ├── local/             # Room entity, DAO, converters, database
 │   └── repository/        # Goal operations, settings, JSON backup
