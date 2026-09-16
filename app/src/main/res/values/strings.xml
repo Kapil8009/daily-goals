@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Goals</string>
+    <string name="notification_channel_name">Daily goal reminders</string>
+    <string name="notification_channel_description">A daily reminder to review incomplete goals</string>
+</resources>
