@@ -1,18 +1,18 @@
 # Daily Goals Privacy Policy
 
-Last updated: September 15, 2026
+Last updated: September 17, 2026
 
 Daily Goals is designed as an offline productivity application.
 
 ## Data stored by the app
 
-Goals, descriptions, dates, times, priorities, completion history, and app settings are stored in the application's private storage on the user's device. Daily Goals does not upload this information to a developer-operated server. No account is required.
+Goals, descriptions, dates, times, priorities, recurring schedules, daily targets, progress history, reminder preferences, and app settings are stored in the application's private storage on the user's device. Daily Goals does not upload this information to a developer-operated server. No account is required.
 
 Android's operating-system backup and device-transfer features may back up application data when the user has enabled those services. Those services are controlled by the device and account provider, not by Daily Goals.
 
 ## Permissions
 
-Daily Goals may request notification permission on Android 13 or newer, but only after the user enables reminders and sees an explanation. Notifications are used solely to provide the chosen daily goal reminder. Permission is optional and can be revoked in Android settings.
+Daily Goals may request notification permission on Android 13 or newer, but only after the user enables reminders and sees an explanation. Notifications are used solely for the goal reminder schedules the user configures and for a one-time daily-target completion confirmation. Notification actions may update locally stored goal progress or snooze a reminder. Permission is optional and can be revoked in Android settings.
 
 The app does not request contacts, location, camera, microphone, SMS, phone, or broad storage permissions. Export and import use Android's system file picker, and the app receives access only to the file the user chooses.
 
